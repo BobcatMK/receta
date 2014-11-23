@@ -26,6 +26,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 1.2'
 
 gem 'bower-rails'
+gem 'angular-rails-templates','~> 0.1.3'
 
 gem 'sass', '3.2.19'
 group :test, :development do
